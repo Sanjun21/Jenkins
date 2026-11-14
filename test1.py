@@ -1,1 +1,1 @@
-print("H section,cse,VVCE")
+print("H section,cse,VVCE,mysore")
