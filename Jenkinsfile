@@ -11,8 +11,8 @@ pipeline {
 
         stage('Build & Execute Script') {
             steps {
-                echo 'Running test.py...'
-                bat 'python test.py'
+                echo 'Running test1.py...'
+                bat 'python test1.py'
             }
         }
 
