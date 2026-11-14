@@ -12,7 +12,7 @@ pipeline {
         stage('Build & Execute Script') {
             steps {
                 echo 'Running test1.py...'
-                bat 'python test1.py'
+                bat 'C:\Users\STUDENT\AppData\Local\Programs\Python\Python313\python.exe test1.py'
             }
         }
 
