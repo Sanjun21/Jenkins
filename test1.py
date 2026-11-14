@@ -1,1 +1,1 @@
-print("sanju,cse,VVCE,mysore")
+print("sanju,cse,VVCE")
